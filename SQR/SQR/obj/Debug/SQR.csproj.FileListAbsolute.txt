@@ -1,0 +1,20 @@
+C:\Институт\SQR\SQR\bin\Debug\SQR.exe.config
+C:\Институт\SQR\SQR\bin\Debug\SQR.exe
+C:\Институт\SQR\SQR\bin\Debug\SQR.pdb
+C:\Институт\SQR\SQR\obj\Debug\SQR.csproj.AssemblyReference.cache
+C:\Институт\SQR\SQR\obj\Debug\SQR.Form1.resources
+C:\Институт\SQR\SQR\obj\Debug\SQR.Properties.Resources.resources
+C:\Институт\SQR\SQR\obj\Debug\SQR.csproj.GenerateResource.cache
+C:\Институт\SQR\SQR\obj\Debug\SQR.csproj.CoreCompileInputs.cache
+C:\Институт\SQR\SQR\obj\Debug\SQR.exe
+C:\Институт\SQR\SQR\obj\Debug\SQR.pdb
+C:\Institute\Вычислительная математика Курсовая\SQR\SQR\obj\Debug\SQR.csproj.AssemblyReference.cache
+C:\Institute\Вычислительная математика Курсовая\SQR\SQR\obj\Debug\SQR.Form1.resources
+C:\Institute\Вычислительная математика Курсовая\SQR\SQR\obj\Debug\SQR.Properties.Resources.resources
+C:\Institute\Вычислительная математика Курсовая\SQR\SQR\obj\Debug\SQR.csproj.GenerateResource.cache
+C:\Institute\Вычислительная математика Курсовая\SQR\SQR\obj\Debug\SQR.csproj.CoreCompileInputs.cache
+C:\Institute\Вычислительная математика Курсовая\SQR\SQR\obj\Debug\SQR.exe
+C:\Institute\Вычислительная математика Курсовая\SQR\SQR\obj\Debug\SQR.pdb
+C:\Institute\Вычислительная математика Курсовая\SQR\SQR\bin\Debug\SQR.exe.config
+C:\Institute\Вычислительная математика Курсовая\SQR\SQR\bin\Debug\SQR.exe
+C:\Institute\Вычислительная математика Курсовая\SQR\SQR\bin\Debug\SQR.pdb
